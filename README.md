@@ -1,5 +1,4 @@
-# vigilant-sniffle
-## Payment Date Prediction based on past records.
+# Payment Date Prediction based on past records.
 
 B2B or Business to Business companies work on credits with other companies. When there is a trade between a buyer's business and a seller's business, the seller's business issues an invoice for the transaction. The invoice for the transaction contains various information about the goods purchased and the date by which the credit shall be cleared. Invoice Management is crucial for all businesses as it frequently trades with multiple other businesses. To correctly predict the most probable Payment Date is an important task for the accounts team to generate the invoice. The buyer must clear the credits within the established timeframe termed the credit terms or Payment Terms. 
 Keywords: B2B, Invoice management, Payment date Prediction, Payment Terms.
